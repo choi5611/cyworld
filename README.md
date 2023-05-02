@@ -2,6 +2,7 @@
 <br>
 미니게임 끝말잇기, 로또번호 
 <br>
-<img width="80%" src="https://user-images.githubusercontent.com/117155113/235665445-b6c029c6-517a-440c-aedb-d8d94e912b95.png/>
-<img width="80%" src="https://user-images.githubusercontent.com/117155113/235665727-98449979-7f76-4d81-bfcf-7319f262de6b.png/>
-<img width="80%" src="https://user-images.githubusercontent.com/117155113/235665735-682a7903-5d6d-4d26-bb3b-4637d5962932.png/>
+![home](https://user-images.githubusercontent.com/117155113/235667086-10c29128-303e-413b-b431-09df0ad66602.png)
+![hom](https://user-images.githubusercontent.com/117155113/235667094-2fc2e4bc-60b5-4781-b7f4-58760901fd0c.p
+![ho](https://user-images.githubusercontent.com/117155113/235667106-e881c823-7d2d-4566-96e8-5030faf41a04.png)
+ng)
